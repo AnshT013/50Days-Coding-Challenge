@@ -45,7 +45,7 @@ Each day includes:
 | 2   | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Add Digits](https://leetcode.com/problems/add-digits/) | ✅ Completed |
 | 3   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Perfect Number](https://leetcode.com/problems/perfect-number/) | ✅ Completed |
 | 4   | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | ✅ Completed |
-| ... | ... | ... | ... |
+| 5   | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | ✅ Completed |
 
 ---
 
