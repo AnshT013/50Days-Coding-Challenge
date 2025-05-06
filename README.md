@@ -47,6 +47,7 @@ Each day includes:
 | 4   | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | ✅ Completed |
 | 5   | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | ✅ Completed |
 | 6   | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Happy Number](https://leetcode.com/problems/happy-number/) | ✅ Completed |
+| 7   | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Plus One](https://leetcode.com/problems/plus-one/) | ✅ Completed |
 
 ---
 
@@ -72,4 +73,4 @@ Each day includes:
 
 ---
 
-## ⭐ Star this repo to support and follow the journey!
+## ⭐ Star this repo to support and follow the journey
