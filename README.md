@@ -48,6 +48,7 @@ Each day includes:
 | 5   | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | ✅ Completed |
 | 6   | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Happy Number](https://leetcode.com/problems/happy-number/) | ✅ Completed |
 | 7   | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Plus One](https://leetcode.com/problems/plus-one/) | ✅ Completed |
+| 8   | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | ✅ Completed |
 
 ---
 
