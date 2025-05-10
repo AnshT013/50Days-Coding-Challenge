@@ -51,6 +51,7 @@ Each day includes:
 | 8   | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | ✅ Completed |
 | 9   | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [Nth Digit](https://leetcode.com/problems/nth-digit/) | ✅ Completed |
 | 10  | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | ✅ Completed |
+| 11  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | ✅ Completed |
 
 ---
 
@@ -76,4 +77,4 @@ Each day includes:
 
 ---
 
-## ⭐ Star this repo to support and follow the journey 
+## ⭐ Star this repo to support and follow the journey
