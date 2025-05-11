@@ -52,6 +52,7 @@ Each day includes:
 | 9   | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [Nth Digit](https://leetcode.com/problems/nth-digit/) | ✅ Completed |
 | 10  | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | ✅ Completed |
 | 11  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | ✅ Completed |
+| 12  | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | ✅ Completed |
 
 ---
 
