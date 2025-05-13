@@ -54,6 +54,7 @@ Each day includes:
 | 11  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | ✅ Completed |
 | 12  | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | ✅ Completed |
 | 13  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | ✅ Completed |
+| 14  | [Partition List](https://leetcode.com/problems/partition-list/) | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | ✅ Completed |
 
 ---
 
