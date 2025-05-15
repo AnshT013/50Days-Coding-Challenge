@@ -56,6 +56,7 @@ Each day includes:
 | 13  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | ✅ Completed |
 | 14  | [Partition List](https://leetcode.com/problems/partition-list/) | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | ✅ Completed |
 | 15  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | ✅ Completed |
+| 16  | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | ✅ Completed |
 
 ---
 
