@@ -60,6 +60,7 @@ Each day includes:
 | 17  | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | ✅ Completed |
 | 18  | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | ✅ Completed |
 | 19  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ✅ Completed |
+| 20  | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | ✅ Completed |
 
 ---
 
