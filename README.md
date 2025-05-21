@@ -58,9 +58,11 @@ Each day includes:
 | 15  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | ✅ Completed |
 | 16  | [Min Stack](https://leetcode.com/problems/min-stack/) | [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ Completed |
 | 17  | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | ✅ Completed |
-| 18  | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | ✅ Completed |
-| 19  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ✅ Completed |
-| 20  | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | ✅ Completed |
+| 18  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ✅ Completed |
+| 19  | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | ✅ Completed |
+| 20  | [Pascal’s Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ✅ Completed |
+| 21  | [Majority Element](https://leetcode.com/problems/majority-element/) | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | ✅ Completed |
+| 22  | [Majority Element](https://leetcode.com/problems/majority-element/) | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | ✅ Completed |
 
 ---
 
@@ -82,6 +84,7 @@ Each day includes:
 
 - 🎓 Final Year B.Tech | CSE | VIT Bhopal  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ansh-tiwari-577a72246)  
+- 📂 [GitHub Repo – 50 Days Coding Challenge](https://github.com/your-username/your-repo-name)  
 - 📫 anshtiwari2022@vitbhopal.ac.in  
 
 ---
