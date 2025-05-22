@@ -62,7 +62,8 @@ Each day includes:
 | 19  | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | ✅ Completed |
 | 20  | [Pascal’s Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ✅ Completed |
 | 21  | [Majority Element](https://leetcode.com/problems/majority-element/) | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | ✅ Completed |
-| 22  | [Majority Element](https://leetcode.com/problems/majority-element/) | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | ✅ Completed |
+| 22  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | ✅ Completed |
+| 23  | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Divisibility by 8 (GFG)](https://www.geeksforgeeks.org/problems/divisible-by-8/1) | ✅ Completed |
 
 ---
 
