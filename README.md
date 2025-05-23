@@ -64,6 +64,7 @@ Each day includes:
 | 21  | [Majority Element](https://leetcode.com/problems/majority-element/) | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | ✅ Completed |
 | 22  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | ✅ Completed |
 | 23  | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Divisibility by 8 (GFG)](https://www.geeksforgeeks.org/problems/divisible-by-8/1) | ✅ Completed |
+| 24  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | ✅ Completed |
 
 ---
 
