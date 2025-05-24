@@ -65,6 +65,7 @@ Each day includes:
 | 22  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | ✅ Completed |
 | 23  | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Divisibility by 8 (GFG)](https://www.geeksforgeeks.org/problems/divisible-by-8/1) | ✅ Completed |
 | 24  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | ✅ Completed |
+| 25  | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Rotate Array](https://leetcode.com/problems/rotate-array/) | ✅ Completed |
 
 ---
 
@@ -86,7 +87,7 @@ Each day includes:
 
 - 🎓 Final Year B.Tech | CSE | VIT Bhopal  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ansh-tiwari-577a72246)  
-- 📂 [GitHub Repo – 50 Days Coding Challenge](https://github.com/your-username/your-repo-name)  
+- 📂 [GitHub Repo – 50 Days Coding Challenge](https://github.com/AnshT013/50DaysCodingChallenge)  
 - 📫 anshtiwari2022@vitbhopal.ac.in  
 
 ---
