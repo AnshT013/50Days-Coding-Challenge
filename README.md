@@ -15,7 +15,7 @@ Welcome to my journey of discipline, consistency, and growth through the **#50Da
 
 ## 👨‍💻 Daily Structure
 
-Each day includes:
+Each day includes:  
 - ✅ 1 DSA Problem  
 - ✅ 1 Math-based Problem  
 
@@ -65,7 +65,45 @@ Each day includes:
 | 22  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | ✅ Completed |
 | 23  | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Divisibility by 8 (GFG)](https://www.geeksforgeeks.org/problems/divisible-by-8/1) | ✅ Completed |
 | 24  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | ✅ Completed |
-| 25  | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Rotate Array](https://leetcode.com/problems/rotate-array/) | ✅ Completed |
+| 25  | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | ✅ Completed |
+| 26  | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | ✅ Completed |
+
+---
+
+## 📢 Daily Updates
+
+### Day 24 Update:
+Today’s problems kept the brain gears grinding with edge case handling and optimal array manipulation:  
+- Move Zeroes  
+- Basic Calculator  
+
+Every single day sharpens logic, resilience, and consistency!  
+Thanks again to Shriram R Sir and the Placement Team for this enriching journey. 🙌
+
+GitHub repo updated with today’s solutions: **50 Days Coding Challenge Repo**  
+
+---
+
+### Day 25 Update:
+Today's challenges focused on array rotations and stack implementation nuances:  
+- Rotate Array  
+- Implement Stack using Queues  
+
+Pushing the limits of understanding data structures step by step. Let’s keep the momentum!  
+Huge thanks to the mentors and the community for continuous support.
+
+GitHub repo updated with today’s solutions: **50 Days Coding Challenge Repo**  
+
+---
+
+### Day 26 Update:
+Today we mastered searching and traversal techniques:  
+- Find First and Last Position of an Element in Sorted Array  
+- Binary Tree Inorder Traversal  
+
+These fundamental problems build a strong foundation in searching algorithms and tree traversals.
+
+GitHub repo updated with today’s solutions: **50 Days Coding Challenge Repo**  
 
 ---
 
@@ -87,9 +125,10 @@ Each day includes:
 
 - 🎓 Final Year B.Tech | CSE | VIT Bhopal  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ansh-tiwari-577a72246)  
-- 📂 [GitHub Repo – 50 Days Coding Challenge](https://github.com/AnshT013/50DaysCodingChallenge)  
+- 📂 [GitHub Repo – 50 Days Coding Challenge](https://github.com/your-username/your-repo-name)  
 - 📫 anshtiwari2022@vitbhopal.ac.in  
 
 ---
 
-## ⭐ Star this repo to support and follow the journey
+## ⭐ Star this repo to support and follow the journey!
+
