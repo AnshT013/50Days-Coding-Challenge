@@ -67,41 +67,19 @@ Each day includes:
 | 24  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | ✅ Completed |
 | 25  | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | ✅ Completed |
 | 26  | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | ✅ Completed |
+| 27  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Power of Four](https://leetcode.com/problems/power-of-four/) | ✅ Completed |
 
 ---
 
 ## 📢 Daily Updates
 
-### Day 24 Update:
-Today’s problems kept the brain gears grinding with edge case handling and optimal array manipulation:  
-- Move Zeroes  
-- Basic Calculator  
+### Day 27 Update:
+Exploring tree traversal and base-specific power checks was today’s focus:  
+- Binary Tree Preorder Traversal  
+- Power of Four  
 
-Every single day sharpens logic, resilience, and consistency!  
-Thanks again to Shriram R Sir and the Placement Team for this enriching journey. 🙌
-
-GitHub repo updated with today’s solutions: **50 Days Coding Challenge Repo**  
-
----
-
-### Day 25 Update:
-Today's challenges focused on array rotations and stack implementation nuances:  
-- Rotate Array  
-- Implement Stack using Queues  
-
-Pushing the limits of understanding data structures step by step. Let’s keep the momentum!  
-Huge thanks to the mentors and the community for continuous support.
-
-GitHub repo updated with today’s solutions: **50 Days Coding Challenge Repo**  
-
----
-
-### Day 26 Update:
-Today we mastered searching and traversal techniques:  
-- Find First and Last Position of an Element in Sorted Array  
-- Binary Tree Inorder Traversal  
-
-These fundamental problems build a strong foundation in searching algorithms and tree traversals.
+Consistently learning and implementing new techniques day by day!  
+Let’s keep building momentum and confidence. 💪
 
 GitHub repo updated with today’s solutions: **50 Days Coding Challenge Repo**  
 
@@ -131,4 +109,3 @@ GitHub repo updated with today’s solutions: **50 Days Coding Challenge Repo**
 ---
 
 ## ⭐ Star this repo to support and follow the journey!
-
