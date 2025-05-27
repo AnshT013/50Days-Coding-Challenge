@@ -75,13 +75,13 @@ Each day includes:
 
 ### Day 27 Update:
 Exploring tree traversal and base-specific power checks was today’s focus:  
-- Binary Tree Preorder Traversal  
-- Power of Four  
+- ✅ **Binary Tree Preorder Traversal**  
+- ✅ **Power of Four**  
 
-Consistently learning and implementing new techniques day by day!  
-Let’s keep building momentum and confidence. 💪
+Both problems strengthened logic building for recursive trees and mathematical observations on powers of 4.
 
-GitHub repo updated with today’s solutions: **50 Days Coding Challenge Repo**  
+🛠️ GitHub repo updated with today’s solutions:  
+**[50 Days Coding Challenge Repo](https://github.com/your-username/your-repo-name)**
 
 ---
 
@@ -102,7 +102,7 @@ GitHub repo updated with today’s solutions: **50 Days Coding Challenge Repo**
 ## 📌 Connect with Me
 
 - 🎓 Final Year B.Tech | CSE | VIT Bhopal  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ansh-tiwari-577a72246)  
+- 🔗 [LinkedIn – Ansh Tiwari](https://www.linkedin.com/in/ansh-tiwari-577a72246)  
 - 📂 [GitHub Repo – 50 Days Coding Challenge](https://github.com/your-username/your-repo-name)  
 - 📫 anshtiwari2022@vitbhopal.ac.in  
 
