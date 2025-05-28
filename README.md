@@ -68,20 +68,19 @@ Each day includes:
 | 25  | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | ✅ Completed |
 | 26  | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | ✅ Completed |
 | 27  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Power of Four](https://leetcode.com/problems/power-of-four/) | ✅ Completed |
+| 28  | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | ✅ Completed |
 
 ---
 
 ## 📢 Daily Updates
 
-### Day 27 Update:
-Exploring tree traversal and base-specific power checks was today’s focus:  
-- ✅ **Binary Tree Preorder Traversal**  
-- ✅ **Power of Four**  
+### Day 28 Update:
+Today’s focus was on heaps and binary tree traversal logic:  
+- 🔢 DSA: Kth Largest Element in an Array (Heap-based selection using min-heap)  
+- 🌳 Math/Tree: Sum of Left Leaves (DFS traversal with left-child check)
 
-Both problems strengthened logic building for recursive trees and mathematical observations on powers of 4.
-
-🛠️ GitHub repo updated with today’s solutions:  
-**[50 Days Coding Challenge Repo](https://github.com/your-username/your-repo-name)**
+Each challenge helps sharpen algorithmic thinking and confidence. Let’s stay consistent! 💪  
+GitHub repo updated with today’s solutions.
 
 ---
 
@@ -102,7 +101,7 @@ Both problems strengthened logic building for recursive trees and mathematical o
 ## 📌 Connect with Me
 
 - 🎓 Final Year B.Tech | CSE | VIT Bhopal  
-- 🔗 [LinkedIn – Ansh Tiwari](https://www.linkedin.com/in/ansh-tiwari-577a72246)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ansh-tiwari-577a72246)  
 - 📂 [GitHub Repo – 50 Days Coding Challenge](https://github.com/your-username/your-repo-name)  
 - 📫 anshtiwari2022@vitbhopal.ac.in  
 
