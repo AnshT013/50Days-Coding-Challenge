@@ -69,18 +69,21 @@ Each day includes:
 | 26  | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | ✅ Completed |
 | 27  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Power of Four](https://leetcode.com/problems/power-of-four/) | ✅ Completed |
 | 28  | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | ✅ Completed |
+| 29  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | ✅ Completed |
+| 30  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | ✅ Completed |
 
 ---
 
 ## 📢 Daily Updates
 
-### Day 28 Update:
-Today’s focus was on heaps and binary tree traversal logic:  
-- 🔢 DSA: Kth Largest Element in an Array (Heap-based selection using min-heap)  
-- 🌳 Math/Tree: Sum of Left Leaves (DFS traversal with left-child check)
+### Day 30 Update:
+Today focused on a mix of searching and tree traversal strategies:  
+- 🔢 **DSA:** Search in Rotated Sorted Array (Modified binary search)  
+- 🌳 **Tree:** Diameter of Binary Tree (Recursive DFS to find the longest path through the root)
 
-Each challenge helps sharpen algorithmic thinking and confidence. Let’s stay consistent! 💪  
-GitHub repo updated with today’s solutions.
+Every single day of this journey is sharpening my problem-solving abilities, strengthening core concepts, and bringing me closer to my placement goals. 💻💪  
+A heartfelt thanks to Shriram R sir and the Placement Team for initiating this powerful challenge and keeping us inspired throughout. 🙏  
+Let’s keep pushing forward and make every day count! 🔥
 
 ---
 
@@ -102,7 +105,7 @@ GitHub repo updated with today’s solutions.
 
 - 🎓 Final Year B.Tech | CSE | VIT Bhopal  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ansh-tiwari-577a72246)  
-- 📂 [GitHub Repo – 50 Days Coding Challenge](https://github.com/your-username/your-repo-name)  
+- 📂 [GitHub Repo – 50 Days Coding Challenge](https://github.com/AnshT013)  
 - 📫 anshtiwari2022@vitbhopal.ac.in  
 
 ---
