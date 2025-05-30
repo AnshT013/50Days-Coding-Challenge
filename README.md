@@ -71,19 +71,19 @@ Each day includes:
 | 28  | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | ✅ Completed |
 | 29  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | ✅ Completed |
 | 30  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | ✅ Completed |
+| 31  | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Count Primes](https://leetcode.com/problems/count-primes/) | ✅ Completed |
 
 ---
 
 ## 📢 Daily Updates
 
-### Day 30 Update:
-Today focused on a mix of searching and tree traversal strategies:  
-- 🔢 **DSA:** Search in Rotated Sorted Array (Modified binary search)  
-- 🌳 **Tree:** Diameter of Binary Tree (Recursive DFS to find the longest path through the root)
+### Day 31 Update:
+Today was all about patterns and prime intuition:  
+- 🧩 **DSA:** Next Greater Element I — mastering stack-based monotonic patterns  
+- 🔢 **Math:** Count Primes — implemented the classic Sieve of Eratosthenes for optimized performance
 
-Every single day of this journey is sharpening my problem-solving abilities, strengthening core concepts, and bringing me closer to my placement goals. 💻💪  
-A heartfelt thanks to Shriram R sir and the Placement Team for initiating this powerful challenge and keeping us inspired throughout. 🙏  
-Let’s keep pushing forward and make every day count! 🔥
+The journey continues — with every new problem, the mindset and muscle for problem-solving grows stronger. 🚀  
+Appreciation as always to Shriram R sir and the Placement Team for designing this life-changing initiative.
 
 ---
 
