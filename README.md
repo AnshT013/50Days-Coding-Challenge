@@ -72,6 +72,7 @@ Each day includes:
 | 29  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | ✅ Completed |
 | 30  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | ✅ Completed |
 | 31  | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Count Primes](https://leetcode.com/problems/count-primes/) | ✅ Completed |
+| 32  | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ✅ Completed |
 
 ---
 
@@ -84,6 +85,16 @@ Today was all about patterns and prime intuition:
 
 The journey continues — with every new problem, the mindset and muscle for problem-solving grows stronger. 🚀  
 Appreciation as always to Shriram R sir and the Placement Team for designing this life-changing initiative.
+
+---
+
+### Day 32 Update:
+Today I tackled two key concepts crucial for interviews:
+
+- 🔄 **DSA:** [Rotate Image](https://leetcode.com/problems/rotate-image/) — Applied matrix transformation logic using transpose and reverse techniques.  
+- 🌳 **Math/DSA:** [Level Order Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-level-order-traversal/) — Practiced BFS traversal using queues.
+
+Every challenge is making my fundamentals stronger. Huge thanks to Shriram R sir and the Placement Team for designing this impactful learning journey. Let’s keep climbing! 🚀
 
 ---
 
