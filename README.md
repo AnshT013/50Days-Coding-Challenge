@@ -73,28 +73,17 @@ Each day includes:
 | 30  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | ✅ Completed |
 | 31  | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Count Primes](https://leetcode.com/problems/count-primes/) | ✅ Completed |
 | 32  | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ✅ Completed |
+| 33  | [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | ✅ Completed |
 
 ---
 
 ## 📢 Daily Updates
 
-### Day 31 Update:
-Today was all about patterns and prime intuition:  
-- 🧩 **DSA:** Next Greater Element I — mastering stack-based monotonic patterns  
-- 🔢 **Math:** Count Primes — implemented the classic Sieve of Eratosthenes for optimized performance
+### Day 33 Update:
+- ✍️ **DSA:** Lexicographically Smallest Palindrome — mastered two-pointer string manipulation  
+- 🌳 **Math/DSA:** Binary Tree Right Side View — applied level-order traversal to capture rightmost nodes at each level
 
-The journey continues — with every new problem, the mindset and muscle for problem-solving grows stronger. 🚀  
-Appreciation as always to Shriram R sir and the Placement Team for designing this life-changing initiative.
-
----
-
-### Day 32 Update:
-Today I tackled two key concepts crucial for interviews:
-
-- 🔄 **DSA:** [Rotate Image](https://leetcode.com/problems/rotate-image/) — Applied matrix transformation logic using transpose and reverse techniques.  
-- 🌳 **Math/DSA:** [Level Order Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-level-order-traversal/) — Practiced BFS traversal using queues.
-
-Every challenge is making my fundamentals stronger. Huge thanks to Shriram R sir and the Placement Team for designing this impactful learning journey. Let’s keep climbing! 🚀
+Learning, improving, and leveling up each day — 17 more days to go! 🚀
 
 ---
 
