@@ -74,16 +74,17 @@ Each day includes:
 | 31  | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Count Primes](https://leetcode.com/problems/count-primes/) | ✅ Completed |
 | 32  | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ✅ Completed |
 | 33  | [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | ✅ Completed |
+| 34  | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Power of Two](https://leetcode.com/problems/power-of-two/) | ✅ Completed |
 
 ---
 
 ## 📢 Daily Updates
 
-### Day 33 Update:
-- ✍️ **DSA:** Lexicographically Smallest Palindrome — mastered two-pointer string manipulation  
-- 🌳 **Math/DSA:** Binary Tree Right Side View — applied level-order traversal to capture rightmost nodes at each level
+### Day 34 Update:
+- 🗳 **DSA:** Majority Element II — mastered Boyer-Moore Voting Algorithm for finding elements with frequency > n/3  
+- 🔢 **Math:** Power of Two — used bit manipulation trick `n & (n - 1) == 0` to check if a number is a power of 2 efficiently
 
-Learning, improving, and leveling up each day — 17 more days to go! 🚀
+Learning, improving, and leveling up each day — 16 more days to go! 🚀
 
 ---
 
