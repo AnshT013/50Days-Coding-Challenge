@@ -77,28 +77,15 @@ Each day includes:
 | 34  | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Power of Two](https://leetcode.com/problems/power-of-two/) | ✅ Completed |
 | 35  | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | ✅ Completed |
 | 36  | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | ✅ Completed |
+| 37  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | ✅ Completed |
 
 ---
 
 ## 📢 Daily Updates
 
-### Day 34 Update:
-- 🗳 **DSA:** Majority Element II — mastered Boyer-Moore Voting Algorithm for finding elements with frequency > n/3  
-- 🔢 **Math:** Power of Two — used bit manipulation trick `n & (n - 1) == 0` to check if a number is a power of 2 efficiently
-
----
-
-### Day 35 Update:
-- 🌳 **DSA:** Flatten Binary Tree to Linked List — used preorder traversal with recursion and pointer re-linking
-- ✍️ **Math:** Length of Last Word — used string traversal from end to find last word efficiently
-
----
-
-### Day 36 Update:
-- 🌲 **DSA:** Sum Root to Leaf Numbers — used DFS to accumulate numbers formed by root-to-leaf paths  
-- 🌀 **Math:** Reverse Vowels of a String — implemented two-pointer technique for swapping vowels
-
-Learning, improving, and leveling up each day — just **14 days to go!** 🚀
+### Day 37 Update:
+- 🌿 **DSA:** Binary Tree Postorder Traversal — used recursion and stack simulation for postorder walk  
+- 🧮 **Math:** Multiply Strings — simulated manual multiplication of numbers in string form to handle large numbers without overflow
 
 ---
 
