@@ -78,14 +78,15 @@ Each day includes:
 | 35  | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | ✅ Completed |
 | 36  | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | ✅ Completed |
 | 37  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | ✅ Completed |
+| 38  | [Search in a Binary Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ✅ Completed |
 
 ---
 
 ## 📢 Daily Updates
 
-### Day 37 Update:
-- 🌿 **DSA:** Binary Tree Postorder Traversal — used recursion and stack simulation for postorder walk  
-- 🧮 **Math:** Multiply Strings — simulated manual multiplication of numbers in string form to handle large numbers without overflow
+### Day 38 Update:
+- 🌳 **DSA:** [Search in a Binary Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) — implemented DFS to find a target node efficiently  
+- 🧮 **Math/Stack:** [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) — used stack to validate correct pairing of brackets
 
 ---
 
