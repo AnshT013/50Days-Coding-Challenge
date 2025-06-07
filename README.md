@@ -79,14 +79,15 @@ Each day includes:
 | 36  | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | ✅ Completed |
 | 37  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | ✅ Completed |
 | 38  | [Search in a Binary Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ✅ Completed |
+| 39  | [Insert into Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Remove All Adjacent Duplicates in String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | ✅ Completed |
 
 ---
 
 ## 📢 Daily Updates
 
-### Day 38 Update:
-- 🌳 **DSA:** [Search in a Binary Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) — implemented DFS to find a target node efficiently  
-- 🧮 **Math/Stack:** [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) — used stack to validate correct pairing of brackets
+### Day 39 Update:
+- 🌳 **DSA:** [Insert into Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) — used recursion to insert a node at the correct position in a BST  
+- 🔠 **String/Stack:** [Remove All Adjacent Duplicates in String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) — used stack to simulate character cancellation for adjacent duplicates
 
 ---
 
@@ -109,7 +110,7 @@ Each day includes:
 - 🎓 Final Year B.Tech | CSE | VIT Bhopal  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ansh-tiwari-577a72246)  
 - 📂 [GitHub Repo – 50 Days Coding Challenge](https://github.com/AnshT013)  
-- 📫 anshtiwari2022@vitbhopal.ac.in  
+- 📫 anshtiwari2022@vitbhopal.ac.in
 
 ---
 
