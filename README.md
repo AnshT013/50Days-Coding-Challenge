@@ -80,14 +80,15 @@ Each day includes:
 | 37  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | ✅ Completed |
 | 38  | [Search in a Binary Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ✅ Completed |
 | 39  | [Insert into Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Remove All Adjacent Duplicates in String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | ✅ Completed |
+| 40  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Power of Three](https://leetcode.com/problems/power-of-three/) | ✅ Completed |
 
 ---
 
 ## 📢 Daily Updates
 
-### Day 39 Update:
-- 🌳 **DSA:** [Insert into Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) — used recursion to insert a node at the correct position in a BST  
-- 🔠 **String/Stack:** [Remove All Adjacent Duplicates in String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) — used stack to simulate character cancellation for adjacent duplicates
+### Day 40 Update:
+- 🌲 **DSA:** [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) — used recursion to compute max depth from root to leaves  
+- 🔢 **Math:** [Power of Three](https://leetcode.com/problems/power-of-three/) — applied logarithmic checking and integer constraints for base-3 power
 
 ---
 
