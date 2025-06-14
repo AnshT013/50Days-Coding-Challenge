@@ -61,13 +61,15 @@ Welcome to my journey of discipline, consistency, and growth through the **#50Da
 | 42 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | ✅ Completed |
 | 43 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | ✅ Completed |
 | 44 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | ✅ Completed |
-| 45–50 | Coming Soon | Coming Soon | ⏳ In Progress |
+| 45 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | ✅ Completed |
+| 46 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | ✅ Completed |
+| 47–50 | Coming Soon | Coming Soon | ⏳ In Progress |
 
 ---
 
 ## 🙏 Acknowledgements
 
-- Special thanks to **Shriram R Sir** and the **Placement Team at VIT Bhopal**
+- Special thanks to **Shriram R Sir** and the **Placement Team at VIT Bhopal**  
 - Gratitude to **FACE Prep** for daily guidance and mentorship
 
 ---
