@@ -63,7 +63,10 @@ Welcome to my journey of discipline, consistency, and growth through the **#50Da
 | 44 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | ✅ Completed |
 | 45 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | ✅ Completed |
 | 46 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | ✅ Completed |
-| 47–50 | Coming Soon | Coming Soon | ⏳ In Progress |
+| 47 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | ✅ Completed |
+| 48 | Coming Soon | Coming Soon | ⏳ In Progress |
+| 49 | Coming Soon | Coming Soon | ⏳ In Progress |
+| 50 | Coming Soon | Coming Soon | ⏳ In Progress |
 
 ---
 
