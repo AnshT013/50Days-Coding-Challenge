@@ -1,85 +1,78 @@
-# 💻 50 Days Coding Challenge 🚀
+# 🚀 50 Days Coding Challenge – Ansh Tiwari
 
-Welcome to my journey of discipline, consistency, and growth through the **#50DaysCodingChallenge** — inspired by the **#DrGViswanathanChallenge** at VIT Bhopal.
-
----
-
-## 📅 Challenge Overview
-
-- **Duration:** 50 Days  
-- **Start Date:** 30/04/2025  
-- **End Date:** 18/06/2025  
-- **Goal:** Practice and improve skills in Data Structures and Algorithms (DSA) and Math-based problem solving by solving two LeetCode problems daily.
+Welcome to my 50 Days Coding Challenge!  
+Each day, I solve **2 problems** from platforms like LeetCode to improve my **Data Structures & Algorithms** and **Mathematics/Logic** problem-solving skills using **C++**.
 
 ---
 
-## 🔥 Day-wise Progress
+## 📅 Daily Progress
 
 | Day | DSA Problem | Math/Logic Problem | Status |
 |-----|-------------|--------------------|--------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Add Digits](https://leetcode.com/problems/add-digits/) | ✅ Completed |
-| 2 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | ✅ Completed |
-| 3 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | ✅ Completed |
-| 4 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | ✅ Completed |
-| 5 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | ✅ Completed |
-| 6 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Power of Two](https://leetcode.com/problems/power-of-two/) | ✅ Completed |
-| 7 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | ✅ Completed |
-| 8 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | ✅ Completed |
-| 9 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | ✅ Completed |
-| 10 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | ✅ Completed |
-| 11 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Majority Element](https://leetcode.com/problems/majority-element/) | ✅ Completed |
-| 12 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | ✅ Completed |
-| 13 | [Plus One](https://leetcode.com/problems/plus-one/) | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | ✅ Completed |
-| 14 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Missing Number](https://leetcode.com/problems/missing-number/) | ✅ Completed |
-| 15 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | ✅ Completed |
-| 16 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | ✅ Completed |
-| 17 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | ✅ Completed |
-| 18 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | ✅ Completed |
-| 19 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | ✅ Completed |
-| 20 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Happy Number](https://leetcode.com/problems/happy-number/) | ✅ Completed |
-| 21 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | ✅ Completed |
-| 22 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Add Binary](https://leetcode.com/problems/add-binary/) | ✅ Completed |
-| 23 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | ✅ Completed |
-| 24 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | ✅ Completed |
-| 25 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | ✅ Completed |
-| 26 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Binary Watch](https://leetcode.com/problems/binary-watch/) | ✅ Completed |
-| 27 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | ✅ Completed |
-| 28 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | ✅ Completed |
-| 29 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Single Number II](https://leetcode.com/problems/single-number-ii/) | ✅ Completed |
-| 30 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Power of Three](https://leetcode.com/problems/power-of-three/) | ✅ Completed |
-| 31 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Counting Bits](https://leetcode.com/problems/counting-bits/) | ✅ Completed |
-| 32 | [Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | ✅ Completed |
-| 33 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | ✅ Completed |
-| 34 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | ✅ Completed |
-| 35 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | ✅ Completed |
-| 36 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | ✅ Completed |
-| 37 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | ✅ Completed |
-| 38 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | ✅ Completed |
-| 39 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | ✅ Completed |
-| 40 | [Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Single Number](https://leetcode.com/problems/single-number/) | ✅ Completed |
-| 41 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ✅ Completed |
-| 42 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | ✅ Completed |
-| 43 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | ✅ Completed |
-| 44 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | ✅ Completed |
-| 45 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | ✅ Completed |
-| 46 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | ✅ Completed |
-| 47 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | ✅ Completed |
-| 48 | Coming Soon | Coming Soon | ⏳ In Progress |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | ✅ Completed |
+| 2 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | ✅ Completed |
+| 3 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Power of Two](https://leetcode.com/problems/power-of-two/) | ✅ Completed |
+| 4 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | ✅ Completed |
+| 5 | [Plus One](https://leetcode.com/problems/plus-one/) | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | ✅ Completed |
+| 6 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | ✅ Completed |
+| 7 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ✅ Completed |
+| 8 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Rotate Array](https://leetcode.com/problems/rotate-array/) | ✅ Completed |
+| 9 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | ✅ Completed |
+| 10 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | ✅ Completed |
+| 11 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | ✅ Completed |
+| 12 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | ✅ Completed |
+| 13 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Sum of Digits in Minimum Number](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/) | ✅ Completed |
+| 14 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Count Primes](https://leetcode.com/problems/count-primes/) | ✅ Completed |
+| 15 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Happy Number](https://leetcode.com/problems/happy-number/) | ✅ Completed |
+| 16 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | ✅ Completed |
+| 17 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Add Digits](https://leetcode.com/problems/add-digits/) | ✅ Completed |
+| 18 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | ✅ Completed |
+| 19 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | ✅ Completed |
+| 20 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ✅ Completed |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | ✅ Completed |
+| 22 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | ✅ Completed |
+| 23 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | ✅ Completed |
+| 24 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | ✅ Completed |
+| 25 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Path Sum](https://leetcode.com/problems/path-sum/) | ✅ Completed |
+| 26 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | ✅ Completed |
+| 27 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | ✅ Completed |
+| 28 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | ✅ Completed |
+| 29 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | ✅ Completed |
+| 30 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | ✅ Completed |
+| 31 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ✅ Completed |
+| 32 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | ✅ Completed |
+| 33 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ✅ Completed |
+| 34 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | ✅ Completed |
+| 35 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Count and Say](https://leetcode.com/problems/count-and-say/) | ✅ Completed |
+| 36 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Add Binary](https://leetcode.com/problems/add-binary/) | ✅ Completed |
+| 37 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ✅ Completed |
+| 38 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [String Compression](https://leetcode.com/problems/string-compression/) | ✅ Completed |
+| 39 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | ✅ Completed |
+| 40 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | ✅ Completed |
+| 41 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | ✅ Completed |
+| 42 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | ✅ Completed |
+| 43 | [Check If a String Is a Prefix of Array](https://leetcode.com/problems/check-if-a-string-is-a-prefix-of-array/) | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | ✅ Completed |
+| 44 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | ✅ Completed |
+| 45 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | ✅ Completed |
+| 46 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | ✅ Completed |
+| 47 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | ✅ Completed |
+| 48 | [Check if It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/) | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | ✅ Completed |
 | 49 | Coming Soon | Coming Soon | ⏳ In Progress |
 | 50 | Coming Soon | Coming Soon | ⏳ In Progress |
 
 ---
 
-## 🙏 Acknowledgements
+## 🏁 Goal:
+Solve 100 problems in 50 days (2 per day), build consistency, master coding interviews, and become a confident C++ coder! 💪
 
-- Special thanks to **Shriram R Sir** and the **Placement Team at VIT Bhopal**  
-- Gratitude to **FACE Prep** for daily guidance and mentorship
+📌 **Tools Used:**  
+- Language: C++  
+- Platform: LeetCode  
+- Editor: VS Code / LeetCode IDE  
+- Version Control: Git + GitHub  
+
+📈 Stay tuned for daily updates and milestone reflections!  
+🎯 Let’s finish strong!
 
 ---
 
-## 📌 Connect with Me
-
-- 🎓 Final Year B.Tech | CSE | VIT Bhopal  
-- 🔗 [LinkedIn – Ansh Tiwari](https://www.linkedin.com/in/ansh-tiwari-577a72246)  
-- 📂 [GitHub – AnshT013](https://github.com/AnshT013)  
-- 📫 anshtiwari2022@vitbhopal.ac.in  
